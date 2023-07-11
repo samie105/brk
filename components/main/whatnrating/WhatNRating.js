@@ -3,7 +3,6 @@
 import { useEffect, useState } from "react";
 import { Parallax } from "react-parallax";
 import AOS from "aos";
-d;
 import Image from "next/image";
 import CounterRating from "../whatnrating/CounterRating";
 
