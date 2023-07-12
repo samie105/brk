@@ -35,12 +35,12 @@ export default function CounterRating() {
               </div>
             </div>
             <div
-              className={`text-count my-3 ${font.className} font-black text-xl`}
+              className={`text-count my-3 ${font.className} font-bold text-xl`}
             >
               <CountUp
                 end={510}
                 duration={10}
-                className="font-black"
+                className="font-bold"
                 enableScrollSpy
               />
               K+
@@ -74,13 +74,13 @@ export default function CounterRating() {
               </div>
             </div>
             <div
-              className={`text-count my-3 ${font.className} font-black text-xl`}
+              className={`text-count my-3 ${font.className} font-bold text-xl`}
             >
               <CountUp
                 end={127}
                 duration={10}
                 enableScrollSpy
-                className="font-black"
+                className="font-bold"
               />
               K+
             </div>
@@ -108,13 +108,13 @@ export default function CounterRating() {
               </div>
             </div>
             <div
-              className={`text-count my-3 ${font.className} font-black text-xl`}
+              className={`text-count my-3 ${font.className} font-bold text-xl`}
             >
               <CountUp
                 end={2017}
                 start={1960}
                 duration={8}
-                className="font-black"
+                className="font-bold"
                 separator=""
                 enableScrollSpy
               />
@@ -143,13 +143,13 @@ export default function CounterRating() {
               </div>
             </div>
             <div
-              className={`text-count my-3 ${font.className} font-black text-xl`}
+              className={`text-count my-3 ${font.className} font-bold text-xl`}
             >
               <CountUp
                 end={100}
                 duration={10}
                 enableScrollSpy
-                className="font-black"
+                className="font-bold"
               />
               %
             </div>

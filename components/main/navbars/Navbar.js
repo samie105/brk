@@ -6,10 +6,9 @@ import {
   SheetContent,
   SheetHeader,
   SheetTitle,
-  SheetDescription,
   SheetTrigger,
   SheetClose,
-} from "../../ui/sheet";
+} from "../../../@/components/ui/sheet";
 
 export default function Navbar() {
   const [activeNavItem, setActiveNavItem] = useState("Home");
